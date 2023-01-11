@@ -2,7 +2,7 @@
 # <center> Анализ базы данных резюме c Head Hunter 
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Описание-проекта)  
+[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_1/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/tree/main/pproject_1/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
