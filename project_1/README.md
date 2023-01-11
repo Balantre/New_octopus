@@ -2,17 +2,17 @@
 # <center> Анализ базы данных резюме c Head Hunter 
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Balantre/New_octopus/tree/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/tree/main/pproject_0/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/tree/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Balantre/New_octopus/tree/main/project_0/README.md#Результат)    
-[6. Выводы](https://github.com/Balantre/New_octopus/tree/main/project_0/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/tree/main/pproject_1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Результат)    
+[6. Выводы](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Выводы) 
 
 ### Описание проекта    
 - Преобразовать, исследовать и очистить данные , необходимые для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -46,7 +46,7 @@
 - База резюме, выгруженная с сайта поиска вакансий [hh.ru](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view) 
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -55,14 +55,14 @@
 3. Написание README
 4. Загрузка ноутбук со своим решением на GitHub, оформление его в соответствии с требованиями
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
 
 
 ### Результаты:  
 1. Преобразовали, исследовали и очистили данные , необходимые для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе
 2. Результат готвый проект на GitHub
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
 
 
 ### Выводы:  
@@ -70,7 +70,7 @@
 2. Научились использовать. преобразовывать, иследовать и ьочищать данные используя библиотеки numpy, pandas, matplotlib, seaborn, plotly
 3. Ознакомились функционалом GitHub
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
 
 [Ноутбук с выполненными заданиями и выводами]()
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
