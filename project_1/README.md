@@ -68,7 +68,7 @@
 
 ### Выводы:  
 1. Научились оформлять проект в Jupyter Notebook.
-2. Научились использовать. преобразовывать, иследовать и ьочищать данные используя библиотеки numpy, pandas, matplotlib, seaborn, plotly
+2. Научились использовать. преобразовывать, иследовать и очищать данные используя библиотеки numpy, pandas, matplotlib, seaborn, plotly
 3. Ознакомились функционалом GitHub
 
 :arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
