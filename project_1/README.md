@@ -43,7 +43,8 @@
 
 
 ### Краткая информация о данных
-- База резюме, выгруженная с сайта поиска вакансий [hh.ru](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view) 
+- База резюме, выгруженная с сайта поиска вакансий: [hh.ru](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view) 
+- База данных, выгрузка курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019: [тут](https://drive.google.com/file/d/1llRdShaor7PnKw_F9mZDhh_eDhf92lKA/view?usp=share_link)
 
 
 :arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
