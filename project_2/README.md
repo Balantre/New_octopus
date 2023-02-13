@@ -2,18 +2,18 @@
 # <center> Анализ вакансий из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/tree/main/pproject_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Результат)    
-[6. Выводы](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_2/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Результат)    
+[6. Выводы](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Выводы) 
 
 ### Описание проекта    
 - Отработать все изученные ранее приёмы работы с данными - уметь писать запрос к данным с помощью SQL и затем обрабатывать его результаты с помощью Python.
 - Понять, что из себя представляют данные и насколько они соответствуют созданию модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist.
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -97,7 +97,7 @@
 - industry_id (ID сферы деятельности)
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -106,7 +106,7 @@
 3. Написание README
 4. Загрузка ноутбук со своим решением на GitHub, оформление его в соответствии с требованиями
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Оглавление)
 
 
 ### Результаты:  
@@ -118,7 +118,7 @@
 6. По каждому этапу сделали выводы
 7. Результат готвый проект на GitHub
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Оглавление)
 
 
 ### Выводы:  
@@ -126,8 +126,8 @@
 2. Отработали все изученные ранее приёмы работы с данными - уметь писать запрос к данным с помощью SQL и затем обрабатывать его результаты с помощью Python
 3. Ознакомились функционалом GitHub
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Оглавление)
 
-[Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/New_octopus/blob/main/project_1/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/New_octopus/blob/main/project_2/Project_2_SQL.ipynb)
 
 ### <center> Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
