@@ -2,17 +2,17 @@
 # <center> Проект: Feature Engineering. Соревнование на Kaggle "Прогнозирование рейтинга отеля на Booking"
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_2/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Результат)    
-[6. Выводы](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#описание-проекта-)  
+[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#результаты)    
+[6. Выводы](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Выводы) 
 
 ### **Описание проекта **   
 - Вы работаете дата-сайентистом в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
 
 
 ### **Какой кейс решаем?**
@@ -55,7 +55,7 @@
 Датасет уже разбит на тренировочные и тестовые данные в соотношении 1/3. Проекту также предоставлен образец файла submission.csv в который мы запишем результаты работы модели, чтобы выставить на соревнование.
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
 
 
 ### **Этапы работы над проектом**  
@@ -72,7 +72,7 @@
 
 - запись результатов в файл
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
 
 
 ### **Результаты:**  
@@ -80,7 +80,7 @@
 
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
 
 
 ### **Выводы:**  
@@ -88,8 +88,10 @@
 2. Отработали все изученные ранее приёмы работы с данными
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/tree/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
 
-[Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/New_octopus/blob/main/project_2/Project_2_SQL.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/New_octopus/blob/main/project_3/Project_3.ipynb)
+
+[Датасеты](https://drive.google.com/drive/folders/1-JU62hMM2hJWpaxfIm1CkWF2AO34mhP1?usp=sharing)
 
 ### <center> Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
