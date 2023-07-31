@@ -2,11 +2,11 @@
 # <center> Проект: Задача классификации
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#описание-проекта-)  
-[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Этапы-работы-над-проектом)     
-[5. Выводы](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_4/README.md#описание-проекта-)  
+[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/blob/main/project_4/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/blob/main/project_4/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/blob/main/project_4/README.md#Этапы-работы-над-проектом)     
+[5. Выводы](https://github.com/Balantre/New_octopus/blob/main/project_4/README.md#Выводы) 
 
 ### **Описание проекта **   
 Банки хранят огромные объёмы информации о своих клиентах. Эти данные можно использовать для того, чтобы оставаться на связи с клиентами и индивидуально ориентировать их на подходящие именно им продукты или банковские предложения.
@@ -17,7 +17,7 @@
 
 Вам предоставили данные о последней маркетинговой кампании, которую проводил банк: задачей было привлечь клиентов для открытия депозита. Вы должны проанализировать эти данные, выявить закономерность и найти решающие факторы, повлиявшие на то, что клиент вложил деньги именно в этот банк. Если вы сможете это сделать, то поднимете доходы банка и поможете понять целевую аудиторию, которую необходимо привлекать путём рекламы и различных предложений.
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_4/README.md#оглавление)
 
 
 ### **Какой кейс решаем?**
@@ -67,7 +67,7 @@
 * **deposit** которая определяет, согласится ли клиент открыть депозит в банке.
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_4/README.md#оглавление)
 
 
 ### **Этапы работы над проектом**  
@@ -94,7 +94,7 @@
 
     - На заключительном этапе вы сможете доработать своё предсказание с использованием более сложных алгоритмов и оценить, с помощью какой модели возможно сделать более качественные прогнозы.
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_4/README.md#оглавление)
 
 
 
@@ -112,10 +112,9 @@
 * Задача решена на базовом уровне в соответствии с минимумом требований, необходимых для сдачи проекта. Безусловно остается потенциал по возможному улучшению метрик при более тщательной и творческой обработке признаков, транформации данных, экспериментировании с различными моделями.
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_4/README.md#оглавление)
 
-[Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/New_octopus/blob/main/project_3/Project_3.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/New_octopus/blob/main/project_4/Project_4_ML.ipynb)
 
-[Датасеты](https://drive.google.com/drive/folders/1-JU62hMM2hJWpaxfIm1CkWF2AO34mhP1?usp=sharing)
 
 ### <center> Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
