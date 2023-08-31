@@ -132,3 +132,11 @@ project_1/ExchangeRates.csv
 project_3/hotels_test.csv
 project_3/hotels_train.csv
 project_3/submission.csv
+
+project_5/holiday_data.csv
+project_5/osrm_data_train.csv
+project_5/Project5_osrm_data_test.csv
+project_5/Project5_test_data.csv
+project_5/submission_gb.csv
+project_5/train.csv
+project_5/weather_data.csv
