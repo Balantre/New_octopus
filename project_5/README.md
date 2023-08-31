@@ -2,12 +2,12 @@
 # <center> Проект: Продолжительность поездки на такси по Нью-Йорку  
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#описание-проекта-)  
-[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#результаты)    
-[6. Выводы](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#описание-проекта-)  
+[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#результаты)    
+[6. Выводы](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#Выводы) 
 
 ### **Описание проекта **   
 Представьте, что вы заказываете такси из одной точки Нью-Йорка в другую, причём необязательно, что конечная точка должна находиться в пределах города. Сколько вы должны будете заплатить за поездку?
@@ -18,7 +18,7 @@
 
 Таким образом, если мы разработаем алгоритм, способный определять длительность поездки, мы сможем прогнозировать её стоимость самым тривиальным образом, например, просто умножая стоимость на заданный тариф.
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#оглавление)
 
 
 ### **Какой кейс решаем?**
@@ -70,7 +70,7 @@
 Мы условно разделили признаки на нескольких групп. Каждой из групп мы в дальнейшем уделим отдельное внимание.
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#оглавление)
 
 
 ### **Этапы работы над проектом**  
@@ -82,7 +82,7 @@
 
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#оглавление)
 
 
 ### **Результаты:**  
@@ -92,7 +92,7 @@
 
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#оглавление)
 
 
 ### **Выводы:**  
@@ -101,9 +101,9 @@
 3. Выбрали модель которая показала наилучший результат
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#оглавление)
 
-[Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/New_octopus/blob/main/project_3/Project_3.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/New_octopus/blob/main/project_5/Project-5_MATH_ML_1.ipynb)
 
 [Датасеты](https://drive.google.com/drive/folders/132HB3rZaJmdnNFEUP3uqimvQq7CSSd1b?usp=sharing)
 
