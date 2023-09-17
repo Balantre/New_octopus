@@ -2,12 +2,12 @@
 # <center> Проект: Сегментирование клиентов онлайн-магазина подарков  
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#описание-проекта-)  
-[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#результаты)    
-[6. Выводы](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#описание-проекта-)  
+[2. Какой кейс решаем?](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#результаты)    
+[6. Выводы](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#Выводы) 
 
 ### **Описание проекта **   
 Маркетинг — неотъемлемая часть любого бизнеса. Для повышения прибыли компании важно понимать своего клиента, его пожелания и предпочтения. С появлением электронной коммерции, или онлайн-продаж, стало намного проще собирать данные о клиентах, анализировать их, находить закономерности и реализовывать маркетинговые кампании.
@@ -25,7 +25,7 @@ img
 Однако в The UCI Machine Learning Repository создали набор данных, содержащий фактические транзакции за 2010 и 2011 годы. С ним нам как раз и предстоит поработать в этом проекте.
 Датасет содержит все транзакции, произошедшие за период с 01/12/2010 по 09/12/2011, для базирующейся в Великобритании компании, занимающейся розничной онлайн-торговлей. Компания в основном продаёт уникальные подарки на все случаи жизни. Многие клиенты являются оптовиками.
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#оглавление)
 
 
 ### **Какой кейс решаем?**
@@ -80,7 +80,7 @@ Yабор данных, содержащий фактические транза
 Датасет содержит все транзакции, произошедшие за период с 01/12/2010 по 09/12/2011, для базирующейся в Великобритании компании, занимающейся розничной онлайн-торговлей. Компания в основном продаёт уникальные подарки на все случаи жизни. Многие клиенты являются оптовиками.
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#оглавление)
 
 
 ### **Этапы работы над проектом**  
@@ -91,7 +91,7 @@ Yабор данных, содержащий фактические транза
 валидация моделей и оценка качества.
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#оглавление)
 
 
 ### **Результаты:**  
@@ -117,7 +117,7 @@ Yабор данных, содержащий фактические транза
 
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#оглавление)
 
 
 ### **Выводы:**  
@@ -129,9 +129,9 @@ Yабор данных, содержащий фактические транза
 4. Построены обучающие модели, основанные на алгоритмах машинного обучения, выбраны несколько из них по максимальной целевой метрике Accuracy;
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_5/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#оглавление)
 
-[Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/New_octopus/blob/main/project_5/Project-5_MATH_ML_1.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/New_octopus/blob/main/project_6/Project-6._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 
 [Датасеты](https://drive.google.com/drive/folders/1eTf0ZMqsTgjEvIkvFYdMEjstpK7VdhAj?usp=sharing)
 
